@@ -74,5 +74,9 @@ public class Professor {
 		this.dataAdmissao = dataAdmissao;
 		
 	}
+	public Professor(){
+		
+	}
+	
 	
 }
